@@ -1,0 +1,64 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "ƒ - Monokai",
+  "window.zoomLevel": 0,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.wordWrap": "bounded",
+  "editor.fontFamily": "'Menlo Regular','Consolas Bold','DejaVu Sans Mono', inconsolata,'Droid Sans Mono', 'Droid Sans Fallback'",
+  "editor.fontSize": 15,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.statusBar.visible": false,
+  "editor.lineHeight": 35,
+  "editor.letterSpacing": 0.3,
+  "editor.fontWeight": "900",
+  "workbench.activityBar.visible": false,
+  "explorer.openEditors.visible": 0,
+  "workbench.editor.tabSizing": "shrink",
+  "emmet.triggerExpansionOnTab": true,
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.cursorStyle": "line",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "javascript.validate.enable": false,
+  "files.trimTrailingWhitespace": true,
+  "editor.minimap.maxColumn": 0,
+  "editor.minimap.side": "left",
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "workbench.sideBar.location": "left",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": false,
+  "html.format.wrapAttributes": "force-aligned",
+  "eslint.validate": [
+    "javascript",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "editor.tabSize": 2,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_attributes": "force-aligned"
+    }
+  },
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.rendererType": "dom",
+  "material-icon-theme.opacity": 1,
+  "material-icon-theme.folders.theme": "specific",
+  "breadcrumbs.filePath": "off",
+  "editor.tabCompletion": "on",
+  // "files.associations": {
+  //   ".blade.php": "html",
+  //   ".tpl": "html"
+  // },
+  "blade.format.enable": true
+}
